@@ -1,0 +1,147 @@
+.textfont {
+	font-family: 'Caros Soft', sans-serif;
+}
+span.textcircle {
+	font-family: 'Caros Soft', sans-serif;
+	background-color: #9FA7B4;
+	color: #fff;
+	border-radius: 50%;
+	padding: 12px;
+	font-weight: 700;
+	top: 29px;
+	width: 72px;
+	height: 70px;
+	top: 38px;
+	position: absolute;
+}
+span.eo {
+	margin-left: 106px;
+	font-size: x-large;
+}
+span.ima {
+	margin-left: 80px;
+}
+span.atag {
+	color: #9fa7b4;
+}
+span.igext {
+	font-family: 'Caros Soft', sans-serif;
+}
+.pt-4 {
+	padding-top: 42px;
+}
+.pt-5 {
+	padding-top: 70px;
+}
+img.iconimg.pt-4 {
+	width: 350px;
+	position: relative;
+	left: -39px;
+}
+span.glyphicon.glyphicon-chevron-right {
+	font-size: 19px;
+}
+p.samll.pt-5 {
+	margin-left: -15px;
+}
+span.time {
+	position: absolute;
+	font-size: x-large;
+	font-weight: 600;
+	color: #9fa7b4;
+	top: 36px;
+}
+span.ote {
+	color: #f59f00;
+	font-size: medium;
+	font-weight: 800;
+}
+span.oter {
+	/* font-size: medium; */
+	font-weight: 700;
+	margin-top: 12px;
+}
+span.\33 {
+	font-weight: 900;
+	font-size: 14px;
+}
+span.\32 {
+	font-weight: 900;
+	font-size: 14px;
+}
+span.\31 {
+	color: #300dff;
+	font-size: 16px;
+}
+span.twoq {
+	display: flex;
+}
+span.ty {
+	color: #0a0a0a;
+	font-weight: 700;
+}
+span.tty {
+	font-weight: 700;
+	color: #f9b900;
+}
+span.tvp {
+	float: right;
+}
+span.tvt {
+	colo: aquamarine;
+	color: #1508f5;
+}
+aside {
+	float: right;
+	font-size: 13px;
+}
+td {
+	text-align: right;
+	padding-left: 19px;
+}
+img.\31 n {
+	width: 170px;
+}
+img.\32 n {
+	width: 170px;
+}
+span.glyphicon.glyphicon-paperclip {
+	font-size: x-large;
+	margin-left: 57px;
+	color: #9fa7b4;
+}
+span.\34 tt {
+	font-size: large;
+	font-weight: 600;
+}
+img.imri {
+	width: 160px;
+}
+span.ewqer {
+	position: relative;
+	top: 13px;
+}
+b {
+	font-size: smaller;
+}
+.text-align,
+p.ltext {
+	border-width: thick;
+	border-bottom: 2px solid #9fa7b45c;
+	width: fit-content;
+	padding-top: 12px;
+}
+p.vrt {
+	border-width: thick;
+	border-bottom: 2px solid #9fa7b45c;
+	padding-top: 12px;
+}
+h2.textf {
+	text-transform: uppercase;
+	font-family: 'Caros Soft', sans-serif;
+	font-weight: 900;
+}
+span.ce {
+	color: #f9b900;
+	font-weight: 700;
+}
